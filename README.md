@@ -35,24 +35,12 @@ super-trunfo/
 
 ## 🚀 Como Executar
 
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/seu-usuario/super-trunfo.git](https://github.com/seu-usuario/super-trunfo.git)
-    cd super-trunfo
-    ```
-
-2.  **Crie um ambiente virtual (recomendado):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # No Windows: venv\Scripts\activate
-    ```
-
-3.  **Instale as dependências:**
+1.  **Instale as dependências:**
     ```bash
     pip install -r requirements.txt
     ```
 
-4.  **Execute o jogo:**
+2.  **Execute o jogo:**
     ```bash
     python src/jogo.py
     ```
