@@ -1,0 +1,9 @@
+﻿nome,ataque,defesa,magia,velocidade,super_trunfo
+Dragão Vermelho,95,80,85,70,False
+Mago Ancião,60,70,98,50,False
+Goblin Ladrão,50,40,30,85,False
+Golem de Pedra,40,99,20,30,False
+Fênix Lendária,90,85,95,80,True
+Cavaleiro Negro,88,92,60,65,False
+Sereia Encantada,70,75,92,55,False
+Elfo Arqueiro,80,60,75,90,False
